@@ -8,7 +8,7 @@
 <body>
 <%
 	String name="지유";
-    int age=10;
+    int age=20;
 %>
 </body>
 </html>
